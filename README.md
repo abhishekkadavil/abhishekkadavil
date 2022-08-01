@@ -26,9 +26,6 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <a href="mailto:abhishek.kadavil@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40px" />
   </a>
-  <a href="https://www.instagram.com/abhishek.kadavil/">
-    <img align="left" alt="Abhishek kadavil's Instagram" width="35px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-  </a>
   <a href="https://www.linkedin.com/in/abhishek-kadavil/">
     <img align="left" alt="Abhishek Kadavil's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
