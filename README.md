@@ -14,7 +14,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-A passionate quality analyst from india. My passion for QA lies with dreaming up ideas and making the perfect systems. I take great care in the experience, architecture, and quality of the things i test.
+A passionate QA Engineer. My passion for QA lies with dreaming up ideas and making the perfect systems. I take great care in the experience, architecture, and quality of the things i test.
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
