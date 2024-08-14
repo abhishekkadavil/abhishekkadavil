@@ -20,7 +20,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
 ✉️ &nbsp;You can email me at abhishek.kadavil@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://abhishekkadavil.github.io/InteractiveResume/) for more details about my work experience.
+📄 &nbsp;You can check my [bio](https://abhishekkadavil.github.io/InteractiveResume/) for more details about my work experience.
 
 ![](https://komarev.com/ghpvc/?username=abhishekkadavil&color=brightgreen) 
 </br>
